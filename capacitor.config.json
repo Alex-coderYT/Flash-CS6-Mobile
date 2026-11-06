@@ -1,0 +1,6 @@
+{
+  "appId": "com.alexcoder.flashmobile",
+  "appName": "Flash CS6 Mobile",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}

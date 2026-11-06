@@ -1,0 +1,7 @@
+APK de Flash CS6 Mobile (Capacitor)
+1. Crea un repositorio en GitHub y sube TODO el contenido de esta carpeta (incluida .github).
+2. Pestaña Actions -> "Build APK" -> Run workflow (o se ejecuta solo al subir).
+3. Al terminar, abre la ejecución y descarga el artefacto "flash-mobile-apk" (app-debug.apk).
+4. Descomprímelo, instala el APK en el teléfono (permite "instalar apps desconocidas").
+Tu editor está en www/index.html: edítalo y vuelve a subir para generar un APK nuevo.
+Las exportaciones (PNG, ZIP, WebM, .flashm.json) abren la hoja "Compartir/Guardar" de Android.
